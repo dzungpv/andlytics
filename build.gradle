@@ -39,6 +39,10 @@ dependencies {
 
 android {
 
+    defaultConfig {
+        applicationId "com.github.andlyticsproject.debug"
+    }
+
 	compileSdkVersion 21
 	buildToolsVersion "22.0.1"
 
